@@ -1,2 +1,1 @@
-// Deklarasi fungsi test()
-void test();
+void create_ticket();
