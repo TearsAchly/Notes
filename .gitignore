@@ -1,4 +1,2 @@
-# Ignore all .exe files
-*.exe
-*.txt
-*.class
+# Ignore files
+
