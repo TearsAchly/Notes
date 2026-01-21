@@ -1,0 +1,9 @@
+title: Notes & Records
+description: Personal notes & records
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+enable_darkmode: true
+
+plugins:
+  - jekyll-remote-theme
