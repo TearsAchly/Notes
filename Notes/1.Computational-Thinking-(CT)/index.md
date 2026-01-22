@@ -59,7 +59,8 @@ That is **Computational Thinking** in action.
     - [Brilliant](https://brilliant.org/) 
     - [TED-Ed Logic Puzzles](https://ed.ted.com/) 
     - [Math Kangaroo](https://www.mathkangaroo.org/) 
-    - [BBC Bitesize](https://www.bbc.co.uk/bitesize) - [MindTools](https://www.mindtools.com/)
+    - [BBC Bitesize](https://www.bbc.co.uk/bitesize) 
+    - [MindTools](https://www.mindtools.com/)
 
 * **Data Analysis**
 
