@@ -13,6 +13,6 @@ Learning at my own pace—as long as it sticks.
 ---
 
 ## Current Milestone
-### [**First Step: Computational Thinking**](https://tearsachly.is-a.dev/slow-learn-studies/Notes/1.Computational-Thinking-(CT)/)
+### [**First Step: Computational Thinking**](https://tearsachly.is-a.dev/slow-learn-studies/1.Computational-Thinking-(CT)/)
 
 My first step on this trail.<br>Before diving into the noise,<br>I’m learning how to think,break down complexity, and find the logic in the chaos.
