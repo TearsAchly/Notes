@@ -1,7 +1,7 @@
 ---
 title: Programming Basics
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
 # Programming Basics
