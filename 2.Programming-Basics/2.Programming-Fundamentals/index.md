@@ -2,7 +2,7 @@
 title: Programming Fundamentals
 parent: Programming Basics
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 # What Is Programming?
