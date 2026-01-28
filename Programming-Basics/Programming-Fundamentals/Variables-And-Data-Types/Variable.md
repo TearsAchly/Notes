@@ -1,0 +1,152 @@
+---
+title: Variable
+parent: Variables and Data Types
+nav_order: 1
+---
+
+# [What Is a Variable?]()
+
+A **variable** is a name used to store a value in a program.  
+You can think of a variable as a **label** atau  attached to some data. Or a container like a box containing an apple.   
+Instead of using the value directly every time, we give it a name so it can be reused.
+
+---
+
+# Why Variables Exist
+
+Variables make programs flexible.  
+With variables, a program can:
+
+* store information
+* reuse values
+* update values over time
+
+Without variables, programs would be static and difficult to maintain.
+
+---
+
+# A Simple Example
+
+```python
+age = 20
+```
+
+In this example:
+
+* `age` is the **variable name**
+* `20` is the **value**
+
+Now the program can use `age` instead of writing `20` everywhere.
+
+---
+
+# [Variable Declaration]() and [Variable Assignment]()
+
+When working with variables, there are two main actions:
+
+## Variable Declaration
+
+Declaring a variable means introducing its name to the program.
+
+## Variable Assignment
+
+Assigning a variable means giving it a value.
+
+In some languages, declaration and assignment happen **at the same time**.
+In others, they can be **separate steps**.
+
+---
+
+# Examples
+
+**Python (combined)**
+
+```python
+count = 5
+```
+
+**C (separated)**
+
+```c
+int count;
+count = 5;
+```
+
+The idea is the same. Only the syntax is different.
+
+---
+
+# Updating a Variable
+
+The value of a variable can change while the program is running.
+
+```python
+score = 10
+score = 15
+```
+
+The variable `score` now holds the value `15`, not `10`.
+
+This ability to change values is what makes variables powerful.
+
+---
+
+# Variable Naming Rules
+
+Most programming languages follow similar rules for naming variables:
+
+* A variable name **must not start with a number**
+* Numbers are allowed, but **not at the beginning**
+* Do not use **reserved keywords** of the language
+* Variable names are **case-sensitive**
+
+  * `total` and `Total` are different
+* For names with multiple words, common styles include:
+
+  * `snake_case`
+  * `camelCase`
+
+---
+
+# Examples
+
+```text
+# Valid
+user_name
+totalScore
+count2
+
+# Invalid
+2count
+user-name
+print
+```
+
+---
+
+# Choosing Good Variable Names
+
+Good variable names make code easier to understand.
+
+Compare:
+
+```python
+x = 30
+```
+
+and
+
+```python
+age = 30
+```
+
+The second example clearly explains **what the value represents**.
+
+---
+
+# In Short
+
+* A **variable** stores a value
+* A variable has a **name** and a **value**
+* The value of a variable can change
+* Clear variable names improve readability
